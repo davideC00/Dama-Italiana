@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1497805528 source:c:\users\utente\desktop\progetto tetta\dama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Dama.h"
+
+1497977840 c:\users\utente\desktop\progetto tetta\dama\dama.h
+
+1497981617 source:c:\users\utente\desktop\progetto tetta\dama\dama.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Dama.h"
+
+1497805528 source:c:\users\utente\desktop\progetto laboratorio\dama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Dama.h"
+
+1497977840 c:\users\utente\desktop\progetto laboratorio\dama\dama.h
+
+1498051760 source:c:\users\utente\desktop\progetto laboratorio\dama\dama.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Dama.h"
+
+1498242957 source:c:\users\utente\desktop\progetto laboratorio dama\dama\dama.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Dama.h"
+
+1498065952 c:\users\utente\desktop\progetto laboratorio dama\dama\dama.h
+
+1497805528 source:c:\users\utente\desktop\progetto laboratorio dama\dama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Dama.h"
+
+1498502726 source:d:\università\laboratorio di informatica\progetto laboratorio dama\dama\dama.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Dama.h"
+
+1498065952 d:\università\laboratorio di informatica\progetto laboratorio dama\dama\dama.h
+
+1497805528 source:d:\università\laboratorio di informatica\progetto laboratorio dama\dama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"Dama.h"
+
