@@ -6,7 +6,7 @@
 #include <ctype.h>
 #include "Dama.h"
 
-
+//Hello
 
 void grafica(int a[8][8])
 {
